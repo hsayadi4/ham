@@ -1,0 +1,20 @@
+> salezi@0.1.0 develop
+> strapi develop
+
+✔ Cleaning dist dir (28ms)
+⠴ Loading Strapi⠋ Building build context
+(node:23536) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+⠦ Loading Strapi[INFO] Including the following ENV variables as part of the JS bundle:
+    - ADMIN_PATH
+    - STRAPI_ADMIN_BACKEND_URL
+    - STRAPI_TELEMETRY_DISABLED
+✔ Building build context (430ms)
+✔ Creating admin (841ms)
+✔ Loading Strapi (3358ms)
+✔ Generating types (821ms)
+⠋ Compiling TS⠋ Cleaning dist dir C:/Users/hamza/Desktop/salezi/Back/di✔ Cleaning dist dir (331ms)
+✔ Compiling TS (5905ms)
+[2024-11-26 12:00:06.534] error: The port 1337 is already used by another application.
+[2024-11-26 12:00:06.536] info: Shutting down Strapi
+PS C:\Users\hamza\Desktop\salezi\Back> 
