@@ -1,0 +1,45 @@
+> salezi@0.1.0 develop
+> strapi develop
+
+✔ Cleaning dist dir (42ms)
+⠦ Loading Strapi[2024-11-26 16:10:04.247] warn: The strapi::cors middleware no longer supports the `enabled` option. Using it to conditionally enable CORS might cause an insecure default. To disable strapi::cors, remove it from the exported array in config/middleware.js
+⠋ Building build context
+(node:26984) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+⠧ Loading Strapi[INFO] Including the following ENV variables as part of the JS bundle:
+    - ADMIN_PATH
+    - STRAPI_ADMIN_BACKEND_URL
+    - STRAPI_TELEMETRY_DISABLED
+✔ Building build context (576ms)
+✔ Creating admin (1176ms)
+✔ Loading Strapi (4880ms)
+✔ Generating types (963ms)
+⠋ Compiling TS⠋ Cleaning dist dir C:/Users/hamza/Desktop/salezi/Back/di✔ Cleaning dist dir (144ms)
+✔ Compiling TS (8147ms)
+
+ Project information                                                   
+
+┌────────────────────┬──────────────────────────────────────────────────┐
+│ Time               │ Tue Nov 26 2024 16:10:16 GMT+0100 (heure normal…
+ │
+│ Launched in        │ 14049 ms                                        
+ │
+│ Environment        │ development                                     
+ │
+│ Process PID        │ 26984                                           
+ │
+│ Version            │ 5.4.1 (node v22.9.0)                            
+ │
+│ Edition            │ Community                                       
+ │
+│ Database           │ sqlite                                          
+ │
+└────────────────────┴──────────────────────────────────────────────────┘
+
+ Actions available                                                     
+
+Welcome back!
+To access the server ⚡️, go to:
+http://localhost:1338
+
+[2024-11-26 16:10:16.462] info: Strapi started successfully
